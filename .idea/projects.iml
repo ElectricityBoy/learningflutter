@@ -3,6 +3,9 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/learningflutter/ola_mundo/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/learningflutter/ola_mundo/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/learningflutter/ola_mundo/build" />
       <excludeFolder url="file://$MODULE_DIR$/ola_mundo/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/ola_mundo/build" />
     </content>
