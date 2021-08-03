@@ -54,7 +54,7 @@ class HomePageState extends State<HomePage> {
               title: Text('Fórum'),
               subtitle: Text('Tire dúvidas e forme grupo de estudos'),
               onTap: () {
-                Navigator.of(context).restorablePushReplacementNamed('/');
+                Navigator.of(context).restorablePushReplacementNamed('/forum');
               },
             ),
              ListTile(
